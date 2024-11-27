@@ -1,9 +1,9 @@
 # Portfolio Website 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivaamm%2Fshivaamm.github.io&count_bg=%23443DC8&title_bg=%23272753&icon=codersrank.svg&icon_color=%23F1F1F1&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpradeep%2Fpradeepkumart.github.io&count_bg=%23443DC8&title_bg=%23272753&icon=codersrank.svg&icon_color=%23F1F1F1&title=hits&edge_flat=false"/></a>
 
-# shivaamm.github.io
+# pradeepkumart.github.io
 
-Check Out Here Live - http://shivaamm.github.io/
+Check Out Here Live - http://pradeepkumart.github.io/
 
 Needs to improve more working on some parts if you got something in mind pls drop an message in the issues or just fill the contact form :)
 * How about the new design on projects display? umm... lightbox is too common isn't it?
