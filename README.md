@@ -3,7 +3,7 @@
 
 # pradeepkumart.github.io
 
-Check Out Here Live - http://pradeepkumart.github.io/
+Check Out Here Live - https://pradeepkt96.github.io/pradeepkumart/
 
 Needs to improve more working on some parts if you got something in mind pls drop an message in the issues or just fill the contact form :)
 * How about the new design on projects display? umm... lightbox is too common isn't it?
