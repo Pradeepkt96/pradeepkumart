@@ -17,31 +17,3 @@ Changes to be done -
 * Project counter function not working properly
 * Add more projects into the gallery
 * Add Runners up project
-
-
-DESKTOP
-![image](https://user-images.githubusercontent.com/59584173/127740973-5244b475-7a8a-441a-b076-ea6f91b3bbbb.png)
-
-PHONE
-![image](https://user-images.githubusercontent.com/59584173/127740994-6a46d4e1-2f7d-4b16-841f-3795e1f3ff0c.png)
-
-
-
-<!-- Personal Website repository
--will be using different libraries
--free images
--vector images
--recommendations photos error
--projects demp
-
-
-Particle.js
-
-lightbox
-
-freepik
-
-lootie files
-
-threejs and webgl learning
- -->
